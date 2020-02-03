@@ -1,8 +1,6 @@
-a = []
+# encoding = utf-8
+nums = [1,2,3,4,5,6,7,8,9,10]
 
-def s(a):
-    a = [1,2,3]
-    print(a)
+new_nums = filter(lambda x:x>5,nums)
 
-s(a)
-print(a)
+print(list(new_nums))
