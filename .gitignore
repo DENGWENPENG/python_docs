@@ -2,3 +2,5 @@
 pdf/
 py/
 *.txt
+*.json
+*.py
