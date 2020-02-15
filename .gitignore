@@ -4,3 +4,6 @@ py/
 *.txt
 *.json
 *.py
+web/
+.ipynb_checkpoints/
+*.ipynb
